@@ -13,9 +13,9 @@ Dans une optique de développement social local, le CSYN a pour finalité de ré
 # 1.2. Solution apportée
 
 + Consolidation et agrégation de toutes les ressources dans une base de données via Google Workspace (Google Sheets).
-+ Mise en place d'une gestion des droits d'accès (la vice-direction).
++ Mise en place d'une gestion des droits d'accès.
 
-**Impact :** Centralisation sécurisée des données et accès contrôlé pour la vice-direction.
+**Impact :** Centralisation sécurisée des données et accès contrôlé.
 
 # 2. Projet App Web (Accueil)
 
