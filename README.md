@@ -26,7 +26,7 @@ Dans une optique de développement social local, le CSYN a pour finalité de ré
 
 # 2.2. Solution apportée
 
-+ Développement d'une app web full-stack avec Base44 + React: dashboard interactif pour suivi quotidien.
++ Développement d'une app web full-stack avec Base44 + React: dashboard interactif pour suivi quotidien, déploiement instantané, backend serverless inclus, authentification native, zero-config.
 + Base de données auto-gérée: entité `StatistiquesQuotidiennes` avec 13 champs (date, métriques, notes), CRUD via `@base44/sdk`.
 + Visualisations avancées: graphiques Recharts (barres mensuelles, lignes annuelles), filtres mois/année, historique récent.
 + 3 versions itératives: V1 (MVP), V2 (stats + graphiques), V3 (layout responsive, premiers retours).
@@ -36,7 +36,7 @@ Dans une optique de développement social local, le CSYN a pour finalité de ré
 **Impact :** 
 - **Gain de temps** : production rapports quotidiens réduite (automatisation saisie + visualisations).
 - **Adoption 100% direction** : accès 24/7 aux KPIs critiques, fin des emails urgents.
-- **Fiabilité données** : centralisation unique vs sources multiples, audit trail complet (par jours ou par mois).
+- **Fiabilité données** : centralisation unique vs sources multiples, audit trail complet.
 - **Scalabilité** : supporte utilisateurs simultanés, évolution facile (nouveaux RDV, métriques).
 
 ## Technologies & Outils
@@ -48,8 +48,6 @@ Dans une optique de développement social local, le CSYN a pour finalité de ré
 | **Base44** | `@base44/sdk`, entité `StatistiquesQuotidiennes` (13 champs) |
 | **UI/UX** | Lucide React icons, Layout responsive (mobile-first) |
 | **Gestion Données** | CRUD auto (create/update), filtres temps réel (mois/année) |
-
-**Points forts Base44** : Déploiement instantané, backend serverless inclus, authentification native, zero-config.
 
 ## Contact
 LinkedIn : [Francesca Oliveira](https://www.linkedin.com/in/oliveirafrancesca/)
