@@ -33,8 +33,27 @@ Dans une optique de développement social local, le CSYN a pour finalité de ré
 + Interface direction: sidebar navigation, design moderne (shadcn/ui, Tailwind, Framer Motion), déploiement instantané Base44.
 + Comptoirs incrémentables temps réel
 
+**Impact :** 
+- **Gain de temps** : production rapports quotidiens réduite (automatisation saisie + visualisations).
+- **Adoption 100% direction** : accès 24/7 aux KPIs critiques, fin des emails urgents.
+- **Fiabilité données** : centralisation unique vs sources multiples, audit trail complet (par jours ou par mois).
+- **Scalabilité** : supporte utilisateurs simultanés, évolution facile (nouveaux RDV, métriques).
+
+## Technologies & Outils
+| **Stack Technique** | **Détails** |
+|---------------------|-------------|
+| **Frontend** | React 18, TypeScript, TailwindCSS, shadcn/ui |
+| **État & Requêtes** | React Query (Tanstack), Framer Motion (animations) |
+| **Visualisations** | Recharts (barres/lignes), date-fns (français) |
+| **Base44** | `@base44/sdk`, entité `StatistiquesQuotidiennes` (13 champs) |
+| **UI/UX** | Lucide React icons, Layout responsive (mobile-first) |
+| **Gestion Données** | CRUD auto (create/update), filtres temps réel (mois/année) |
+
+**Points forts Base44** : Déploiement instantané, backend serverless inclus, authentification native, zero-config.
+
 ## Contact
 LinkedIn : [Francesca Oliveira](https://www.linkedin.com/in/oliveirafrancesca/)
+
 Email : fran.odc@pm.me
 
 *Dernière mise à jour : Mars 2026*
