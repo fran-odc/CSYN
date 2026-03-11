@@ -10,7 +10,7 @@ Dans une optique de développement social local, le CSYN a pour finalité de ré
 - Inconsistence de la base de données (sources multiples).
 - Gestion local sans management des accès.
 
-# 1.2. Solution apportée
+# 1.2. Solutions apportées
 
 + Consolidation et agrégation de toutes les ressources dans une base de données via Google Workspace (Google Sheets).
 + Mise en place d'une gestion des droits d'accès.
@@ -24,7 +24,7 @@ Dans une optique de développement social local, le CSYN a pour finalité de ré
 - Demandes urgentes de statistiques par differents parties prennantes.
 - Équipe débordée par les tâches quotidiennes et les questionnaires.
 
-# 2.2. Solution apportée
+# 2.2. Solutions apportées
 
 + Développement d'une app web full-stack avec Base44 + React: dashboard interactif pour suivi quotidien, déploiement instantané, backend serverless inclus, authentification native, zero-config.
 + Base de données auto-gérée: entité `StatistiquesQuotidiennes` avec 13 champs (date, métriques, notes), CRUD via `@base44/sdk`.
