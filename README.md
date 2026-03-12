@@ -17,6 +17,12 @@ Dans une optique de développement social local, le CSYN a pour finalité de ré
 
 **Impact :** Centralisation sécurisée des données et accès contrôlé.
 
+![Dashboard](images/migration-dashboard.png)
+**Ce que voit la direction :**
+- Graphique consolidé (toutes sources)
+- Accès sécurisés (couleurs par rôle)
+- Export PDF 1-clic
+
 # 2. Projet App Web (Accueil)
 
 # 2.1. Problèmes
