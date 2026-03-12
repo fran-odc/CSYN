@@ -3,7 +3,7 @@
 # 1. Contexte et Objectifs de la Modernisation
 
 En tant que responsable en Transformation Digitale, j'ai procédé à l'audit du système de gestion des bénévoles actuel.
-Le constat est celui d'une organisation reposant sur un héritage de gestion fragmentée et locale, où l'information est silotée dans des fichiers disparates.
+Le constat est celui d'un centre reposant sur un héritage de gestion fragmentée et locale, où l'information est silotée dans des fichiers disparates.
 Cette architecture "artisanale" freine l'agilité opérationnelle et présente des vecteurs de vulnérabilité critiques pour la donnée.
 
 Le présent schéma directeur vise à opérer une transition vers un Référentiel de Données Unique (Single Source of Truth).
@@ -62,7 +62,7 @@ Le projet prévoit une phase de transformation (ETL) visant à convertir les don
 La solution repose sur une synergie entre deux plateformes leaders :
 
 - **Google Workspace (Environnement de Production)** : Centralisation de la base de données unique pour une collaboration multi-utilisateurs en temps réel.
-- **GitHub (Dépôt fran-odc/CSYN)** : Espace d'archivage et de documentation du projet. Le dépôt **ne contient pas** les données nominatives elles-mêmes, mais agit comme une couche de transparence. L'image migration-dashboard.png (référence commit d172c1e) sert de preuve visuelle de la migration effectuée, garantissant que le processus de centralisation est documenté, versionné et vérifiable par l'organisation.
+- **GitHub (Dépôt fran-odc/CSYN)** : Espace d'archivage et de documentation du projet. Le dépôt **ne contient pas** les données nominatives elles-mêmes, mais agit comme une couche de transparence. L'image migration-dashboard.png (référence commit d172c1e) sert de preuve visuelle de la migration effectuée, garantissant que le processus de centralisation est documenté, versionné et vérifiable par le CSYN.
 
 # 3.3. Standardisation du Référentiel (SSOT)
 
@@ -100,4 +100,4 @@ La mise en œuvre de cette modernisation garantit :
 - **Efficacité Opérationnelle** : Réduction du temps de recherche de profils (ex: filtrage instantané sur le champ "Matin" et la compétence "Soutien Scolaire").
 - **Pérennité de la Mémoire Organisationnelle** : Les données d'entretiens ne sont plus des documents isolés mais une base vivante et interrogeable.
 
-En conclusion, en adoptant Google Workspace et GitHub, l'organisation ne se contente pas de "ranger des fichiers" ; elle se dote d'un véritable système d'information capable de soutenir sa croissance et de sécuriser son capital humain.
+En conclusion, en adoptant Google Workspace et GitHub, le CSYN ne se contente pas de "ranger des fichiers" ; il se dote d'un véritable système d'information capable de soutenir sa croissance et de sécuriser son capital humain.
