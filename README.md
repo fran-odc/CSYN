@@ -12,7 +12,7 @@ Dans une optique de développement social local, le CSYN a pour finalité de ré
 - Inconsistence de la base de données (sources multiples).
 - Gestion local sans management des accès.
 
-[🔄 Migration](images/migration-sécurisée-bénévoles.png)
+[🔄 Migration]()
 
 # 1.2. Solutions apportées
 
