@@ -5,7 +5,7 @@ Dans une optique de développement social local, le CSYN a pour finalité de ré
 
 # 1. Projet Migration Cloud (Direction)
 
-![📄 Rapport](Rapport-Projet-Migration-Cloud.md)
+![📄 Rapport](docs/Rapport-Projet-Migration-Cloud.md)
 
 # 1.1. Problèmes
 
