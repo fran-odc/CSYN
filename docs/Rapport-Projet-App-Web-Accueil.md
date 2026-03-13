@@ -38,13 +38,15 @@ Le projet a converti le comptage manuel et les questionnaires papier en flux num
 
 La solution repose sur une stack moderne assurant performance et réactivité.
 
-| **Category** | **Outils** |
-|--------------|------------|
+## Technologies & Outils
+| **Stack Technique** | **Détails** |
+|---------------------|-------------|
 | **Frontend** | React 18, TypeScript, TailwindCSS, shadcn/ui |
-| **Data & Logic** | React Query Tanstack, Framer Motion |
-| **Backend/DB** | @base44/sdk |
-| **Visuals** | Recharts, date-fns, Lucide React |
-
+| **État & Requêtes** | React Query (Tanstack), Framer Motion (animations) |
+| **Visualisations** | Recharts (barres/lignes), date-fns (français) |
+| **Base44** | `@base44/sdk`, entité `StatistiquesQuotidiennes` (13 champs) |
+| **UI/UX** | Lucide React icons, Layout responsive (mobile-first) |
+| **Gestion Données** | CRUD auto (create/update), filtres temps réel (mois/année) |
 
 # 3.3. Standardisation du Référentiel (SSOT)
 
