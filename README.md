@@ -1,7 +1,7 @@
 # Projets au Centre Socioculturel Yannick Noah (CSYN)
 
 # C'est quoi le CSYN ?
-Dans une optique de développement social local, le CSYN a pour finalité de répondre aux besoins exprimés par les habitants du 92 Asnières-sur-Seine à travers des projets innovants et pertinents.
+Dans une optique de développement social local, le CSYN a pour finalité de répondre aux besoins exprimés par les habitants d’Asnières-sur-Seine (92) à travers des projets innovants et pertinents.
 
 # 1. Projet Migration Cloud (Direction)
 
@@ -9,17 +9,17 @@ Dans une optique de développement social local, le CSYN a pour finalité de ré
 
 # 1.1. Problèmes
 
-- Inconsistence de la base de données (sources multiples).
-- Gestion local sans management des accès.
+- Incohérence de la base de données (sources multiples).
+- Gestion locale sans management des accès.
 
 [🔄 Migration]()
 
 # 1.2. Solutions apportées
 
-+ Consolidation et agrégation de toutes les ressources dans une base de données via Google Workspace (Google Sheets).
-+ Mise en place d'une gestion des droits d'accès.
++ Consolidation et agrégation de toutes les ressources dans une base de données via Google Workspace.
++ Mise en place d’une gestion des droits d’accès pour la direction.
 
-**Impact :** Centralisation sécurisée des données et accès contrôlé.
+**Impact :** Centralisation sécurisée des données, accès contrôlé et réduction des erreurs liées aux multiples fichiers.
 
 [📊 Base de données](images/migration-dashboard.png)
 
