@@ -51,16 +51,6 @@ Dans une optique de développement social local, le CSYN a pour finalité de ré
 - **Fiabilité données** : centralisation unique vs sources multiples, audit trail complet.
 - **Scalabilité** : supporte utilisateurs simultanés, évolution facile (nouveaux RDV, métriques).
 
-## Technologies & Outils
-| **Stack Technique** | **Détails** |
-|---------------------|-------------|
-| **Frontend** | React 18, TypeScript, TailwindCSS, shadcn/ui |
-| **État & Requêtes** | React Query (Tanstack), Framer Motion (animations) |
-| **Visualisations** | Recharts (barres/lignes), date-fns (français) |
-| **Base44** | `@base44/sdk`, entité `StatistiquesQuotidiennes` (13 champs) |
-| **UI/UX** | Lucide React icons, Layout responsive (mobile-first) |
-| **Gestion Données** | CRUD auto (create/update), filtres temps réel (mois/année) |
-
 ## Contact
 LinkedIn : [Francesca Oliveira](https://www.linkedin.com/in/oliveirafrancesca/)
 
