@@ -2,7 +2,7 @@
 
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Base44](https://img.shields.io/badge/Base44-IA-blueviolet.svg)](https://base44.com)
-[![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4.svg?style=for-the-badge&logo=google-workspace&logoColor=white)](https://workspace.google.com/)
+[![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4.svg)](https://workspace.google.com/)
 
 # C'est quoi le CSYN ?
 Dans une optique de développement social local, le CSYN a pour finalité de répondre aux besoins exprimés par les habitants d’Asnières-sur-Seine (92) à travers des projets innovants et pertinents.
