@@ -1,7 +1,7 @@
 # Projets au Centre Socioculturel Yannick Noah (CSYN)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Google Workspace](https://img.shields.io/badge/Google%20Sheets-4285F4.svg)](https://workspace.google.com/)
+[![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4.svg?style=for-the-badge&logo=google-workspace&logoColor=white)](https://workspace.google.com/)
 [![Base44](https://img.shields.io/badge/Base44-IA-blueviolet.svg)](https://base44.com)
 
 # C'est quoi le CSYN ?
