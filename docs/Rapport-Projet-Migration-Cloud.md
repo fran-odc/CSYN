@@ -2,7 +2,7 @@
 
 # 1. Contexte et Objectifs de la Modernisation
 
-En tant que responsable en Transformation Digitale, j'ai procédé à l'audit du système de gestion des bénévoles actuel.
+En tant que responsable en Transformation Digitale, j'ai procédé à l'audit du système de gestion des bénévoles actuel au CSYN.
 Le constat est celui d'un centre reposant sur un héritage de gestion fragmentée et locale, où l'information est silotée dans des fichiers disparates.
 Cette architecture "artisanale" freine l'agilité opérationnelle et présente des vecteurs de vulnérabilité critiques pour la donnée.
 
@@ -11,7 +11,7 @@ Le présent schéma directeur vise à opérer une transition vers un Référenti
 La **stratégie** repose sur:
 - la centralisation des flux au sein de l'écosystème Google Workspace pour la production,
 - doublée d'une couche de gouvernance et
-- de documentation technique hébergée sur GitHub (projet CSYN).
+- de documentation technique hébergée sur GitHub.
 
 L'**objectif** est de passer d'un stockage passif à un actif informationnel sécurisé, versionné et pilotable.
 
@@ -85,7 +85,7 @@ Le passage d'une gestion locale à une architecture Cloud renforce drastiquement
 |------------|----------------------------------------|------------------------------------------|
 | **Gouvernance** | Nulle : Multiples copies de fichiers Excel (Missions, liste benevole) et Word stockées localement | Centralisée : Une source de vérité unique ("Single Source of Truth") via une base de données no-code agrégée |
 | **Contrôle d'accès** | Faible : Risque de perte ou de fuite via des copies sur clés USB ou envois par mail sans traçabilité | Sécurisé : Authentification forte (IAM) et accès granulaires gérés via Google Workspace & GitHub |
-| **Traçabilité** | Impossible : Aucune visibilité sur qui a modifié quoi dans les fichiers tabl benevole.xlsx | Auditable : Logs d'activité et audit trail complet; historique immuable des étapes de migration documenté par les commits GitHub |
+| **Traçabilité** | Impossible : Aucune visibilité sur qui a modifié quoi dans les fichiers tabl benevole.xlsx | Auditable : Logs d'activité et audit trail complet; historique immuable des étapes de migration documenté |
 | **Cohérence** | Inconsistante : Données fragmentées entre les fiches d'inscription papier et divers fichiers numériques | Unifiée : Consolidation et nettoyage des données dans un tableau de bord de suivi structuré |
 
 # 4.2. Traçabilité et Conformité
