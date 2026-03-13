@@ -50,10 +50,10 @@ La solution repose sur une stack moderne assurant performance et réactivité.
 
 Le système s'appuie sur une entité unique nommée StatistiquesQuotidiennes, comprenant 13 champs standardisés gérés via le @base44/sdk. 
 
-1. Statistiques d'affluence : Adhérents, partenaires et usagers.
-2. Types de RDV : SST 2, Nouvelles voies, Ville univers, Entract, Orientation, Traitement accueil.
-3. Flux d'appels : Appels reçus et émis.
-4. Qualitatif : Notes et observations quotidiennes.
+1. **Statistiques d'affluence** : Adhérents, partenaires et usagers.
+2. **Types de RDV** : SST 2, Nouvelles voies, Ville univers, Entract, Orientation, Traitement accueil.
+3. **Flux d'appels** : Appels reçus et émis.
+4. **Qualitatif** : Notes et observations quotidiennes.
 
 Cela garantit une source de vérité unique pour toute l'accueil. 
 
