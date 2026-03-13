@@ -29,6 +29,8 @@ Dans une optique de développement social local, le CSYN a pour finalité de ré
 
 # 2. Projet App Web (Accueil)
 
+[📄 Rapport de Modernisation](docs/Rapport-Projet-App-Web-Accueil.md)
+
 # 2.1. Problèmes
 
 - Demandes urgentes de statistiques par differents parties prennantes.
