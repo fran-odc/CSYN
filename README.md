@@ -10,10 +10,11 @@ Dans une optique de développement social local, le CSYN a pour finalité de ré
 
 [🖥️ Website](http://www.csc-ynoah.com/)
 
-**2 Projets** : 
+**Projets gérés** :
 
 • Migration Cloud (proposition stratégique)  
 • App Web (solution urgence → déploiement 72h)
+
 
 # 1. Projet Migration Cloud (Direction)
 
