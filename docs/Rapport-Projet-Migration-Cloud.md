@@ -100,4 +100,4 @@ La mise en œuvre de cette modernisation garantit :
 - **Efficacité Opérationnelle** : Réduction du temps de recherche de profils (ex: filtrage instantané sur le champ "Matin" et la compétence "Soutien Scolaire").
 - **Pérennité de la Mémoire Organisationnelle** : Les données d'entretiens ne sont plus des documents isolés mais une base vivante et interrogeable.
 
-En conclusion, en adoptant Google Workspace et GitHub, le CSYN ne se contente pas de "ranger des fichiers" ; il se dote d'un véritable système d'information capable de soutenir sa croissance et de sécuriser son capital humain.
+En conclusion, le CSYN ne se contente plus de "ranger des fichiers". Le centre se dote d'un véritable système d'information capable de soutenir sa croissance et de sécuriser son capital humain.
