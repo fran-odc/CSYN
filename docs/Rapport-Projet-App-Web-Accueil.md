@@ -6,7 +6,7 @@ L'équipe a présenté un problème majeur de **manque de données exploitables*
 Le constat est celui d'un accueil reposant sur un héritage de **gestion inexistante**, où l'information nécessaire au pilotage était totalement absente.
 Cette architecture freinait l'agilité opérationnelle de l'équipe, déjà débordée par les tâches quotidiennes, et présentait des vecteurs de vulnérabilité critiques pour la fiabilité des informations transmises aux partenaires.
 
-Ma **solution** pour remédier à cette situation a été la conception d'un **système de suivi de l'accueil via une application web dédiée**.
+Ma **solution** a été la conception d'un **système de suivi de l'accueil via une application web dédiée**.
 
 La **stratégie** repose sur :
 - **La centralisation des flux** au sein de l'écosystème **Base44** pour la production, utilisant un backend serverless et une base de données auto-gérée (entité StatistiquesQuotidiennes à 13 champs) pour garantir une saisie unique et fiable
