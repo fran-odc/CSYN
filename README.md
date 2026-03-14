@@ -51,6 +51,9 @@ Dans une optique de développement social local, le CSYN a pour finalité de ré
 - **Fiabilité données** : centralisation unique vs sources multiples, audit trail complet.
 - **Scalabilité** : supporte utilisateurs simultanés, évolution facile (nouveaux RDV, métriques).
 
+![📊 Écrans](images/Ecrans-App-Web.png)
+
+
 ## Contact
 LinkedIn : [Francesca Oliveira](https://www.linkedin.com/in/oliveirafrancesca/)
 
