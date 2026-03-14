@@ -65,7 +65,7 @@ Cela garantit une source de vérité unique pour toute l'accueil.
 
 Le passage d'un mode "ad-hoc" à une application dédiée renforce la gouvernance des données :
 
-| **Aspect** | **Système Existant (Manuel/Informel)** | **Nouveau Système (AppWeb)** | 
+| **Aspect** | **Avant: Manuel/Informel** | **Après: AppWeb** | 
 |------------|----------------------------------------|------------------------------|
 | **Gouvernance** | Inexistante : Données non comptées ou éparpillées | Centralisée : Dashboard interactif accessible 24/7 |
 | **Contrôle d'accès** | Faible : Informations partagées par emails, conversations | Sécurisé : Authentification native et accès restreint |
