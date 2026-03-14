@@ -18,6 +18,6 @@ jobs:
           globs: |
             README.md
             docs/**/*.md
-            config: |
+            config:
           MD013:
             line_length: 120
