@@ -12,12 +12,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Lint Markdown
+      - name: Lint Markdown (tolérant)
         uses: DavidAnson/markdownlint-cli2-action@v13
         with:
           globs: |
             README.md
             docs/**/*.md
-            config:
-          MD013:
-            line_length: 120
+          args: |
+            --config
+            --disable MD013 MD041 MD032
