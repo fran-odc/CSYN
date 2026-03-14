@@ -20,7 +20,7 @@ Dans une optique de développement social local, le CSYN a pour finalité de ré
 
 # 1.2. Solutions apportées
 
-+ Consolidation et agrégation de toutes les ressources dans une base de données via Google Workspace.
++ Consolidation et agrégation de toutes les ressources dans une base de données via Google Wopace.
 + Mise en place d’une gestion des droits d’accès pour la direction.
 
 **Impact :** Centralisation sécurisée des données, accès contrôlé et réduction des erreurs liées aux multiples fichiers.
