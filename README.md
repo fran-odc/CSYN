@@ -2,6 +2,7 @@
 
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Base44](https://img.shields.io/badge/Base44-IA-blueviolet.svg)](https://base44.com)
+![Profile views](https://views.igorkowalczyk.dev/api/badge/fran-odc?style=flat)
 [![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4.svg)](https://workspace.google.com/)
 
 # C'est quoi le CSYN ?
