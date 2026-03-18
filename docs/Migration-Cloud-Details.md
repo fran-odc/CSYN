@@ -2,12 +2,16 @@
 
 ## 🆘 Problèmes identifiés
 ❌ 8 sources séparées (.xls, .doc)
+
 ❌ Données incohérentes (doublons)
+
 ❌ Accès non contrôlés (risque RGPD)
 
 ## ✅ Solution technique
 ✅ Base unique Google Workspace (Sheets)
+
 ✅ Formules QUERY, filtres, fonctions DB pour consolidation
+
 ✅ Droits granulaires : direction R/W, équipe R/O
 
 ## 📊 Métriques avant/après
