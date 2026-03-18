@@ -2,16 +2,24 @@
 
 ## Stack Technique
 Frontend : React 18 + TypeScript
+
 UI : shadcn/ui + TailwindCSS
+
 État : Tanstack Query (React Query)
+
 Graphiques : Recharts (barres/lignes)
+
 Animations : Framer Motion
+
 Backend : Base44 SDK
 
 ## Fonctionnalités
 ✅ 13 compteurs incrémentables temps réel
+
 ✅ Dashboard responsive (mobile/tablette/desktop)
+
 ✅ Stats mensuelles/annuelles filtrables
+
 ✅ Sauvegarde notes quotidiennes
 
 
