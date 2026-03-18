@@ -7,7 +7,7 @@
 
 ❌ Accès non contrôlés (risque RGPD)
 
-## ✅ Solution technique
+## ✅ Solutions techniques
 ✅ Base unique Google Workspace (Sheets)
 
 ✅ Formules QUERY, filtres, fonctions DB pour consolidation
