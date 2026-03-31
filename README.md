@@ -63,7 +63,7 @@ Dans une optique de développement social local, le CSYN a pour finalité de ré
 
 
 ## Contact
-LinkedIn : [Francesca Oliveira](https://www.linkedin.com/in/oliveirafrancesca/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliveirafrancesca/)
 
 [![Email](https://img.shields.io/badge/Email-me%20now!-blue.svg?logo=gmail&logoColor=white)](mailto:fran.odc@pm.me) 
 
